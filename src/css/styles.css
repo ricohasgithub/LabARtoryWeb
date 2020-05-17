@@ -9,6 +9,36 @@
   z-index: 2;
 }
 
+#mix {
+  font-family: 'Roboto', sans-serif;
+  z-index: 2;
+  position: absolute;
+  bottom: 0;
+  left: 25%;
+  height: 5vh;
+  width: 10vh;
+  border: none;
+    text-align: center;
+  background-color: white; /* Green */
+  color: black;
+  font-size: 2.5vh;
+}
+
+#measure {
+  font-family: 'Roboto', sans-serif;
+  z-index: 2;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  height: 5vh;
+  width: 15vh;
+  border: none;
+    text-align: center;
+  background-color: white; /* Green */
+  color: black;
+  font-size: 2.5vh;
+}
+
 iframe {
     position: absolute;
     top: 0%;
