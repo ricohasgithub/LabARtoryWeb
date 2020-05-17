@@ -10,6 +10,7 @@
 }
 
 #mix {
+  cursor: pointer;
   font-family: 'Roboto', sans-serif;
   z-index: 2;
   position: absolute;

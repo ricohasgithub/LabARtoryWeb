@@ -10,7 +10,7 @@ document.getElementById("mix").onclick  = () => {
       }
   };
 
-  xhttp.open("POST", "https://console.echoAR.xyz/post?key=blue-dawn-7175&entry=1d4b3709-99c3-4c97-b96a-fbfa9b95df22&data=yAngle&value=10", true);
+  xhttp.open("POST", "https://console.echoAR.xyz/post?key=blue-dawn-7175&entry=1d4b3709-99c3-4c97-b96a-fbfa9b95df22&data=yAngle&value=25", true);
   xhttp.send();
 
   console.log("MIXING");
