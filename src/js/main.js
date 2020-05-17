@@ -9,6 +9,6 @@ document.getElementById("mix").onclick  = () => {
       }
   };
 
-  xhttp.open("POST", "https://console.echoAR.xyz/post?key=blue-dawn-7175&data=yAngledirection&value=10" + , true);
+  xhttp.open("POST", "https://console.echoAR.xyz/post?key=blue-dawn-7175&data=yAngle&value=10" + , true);
 
 }
